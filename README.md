@@ -63,7 +63,7 @@ def load_process_data(path_data_train, path_data_test):
 
 - Les caractéristiques x_train et x_test sont remodelées en un format approprié pour être utilisées dans les couches Conv2D du réseau de neurones.
 
-- à noter que je veux propose un petit dataset dans le dossier dataset, mais un dataset complet est disponible à l'adresse [dataset complet](https://www.kaggle.com/terromyann/datasets)
+- à noter que je veux propose un petit dataset dans le dossier dataset, mais un dataset complet est disponible à l'adresse kaggle [dataset complet](https://www.kaggle.com/terromyann/datasets) (voir digit-number)
 
 `model_LeNet4()`
 
